@@ -55,6 +55,9 @@ img {
   transition: ease-out 0.4s;
 }
 
+.tablink-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
 
 .tablink:hover {
 box-shadow: inset 150px 0 0 0 #00CED1;
