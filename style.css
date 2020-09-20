@@ -23,18 +23,17 @@ body, html {
 /* image place holder */
 img {
   /*background-color: #aaa;*/
+  /*background-color: #aaa;*/
   width: 150px;
-  height:300px;
-  position: absolute;
+  height:auto;
+  position: center;
   object-fit: contain;
-  left: 0px;
-  top: 0px;
 }
 .tab {
   float: left;
   position: absolute;
   left: 0px;
-  top: 150px;
+  top: 100px;
   border: none;
   background-color: #ffff;
   width: 150px;
