@@ -3,7 +3,7 @@
 /* Set height of body and the document to 100% */
 body, html {
   height: 100%;
-  margin: 100px;
+  margin-left:50px;
   font-family: Arial;
 }
 
@@ -11,15 +11,17 @@ body, html {
 .header {
   text-align: center;
   background: #FFF;
-  height:500px;
+  height:400px;
   color: black;
-  margin-top: 0px;
+  margin:0;
+padding:0;
 
 }
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 40px;
-  margin-top: 0px;
+  margin:0;
+padding:0;
 }
 /* image place holder */
 img {
@@ -29,7 +31,8 @@ img {
   height:auto;
   border-radius: 25%;
   object-fit: contain;
-  margin-top: 0px;
+  margin:0;
+padding:0;
 }
 .tab {
   float: left;
