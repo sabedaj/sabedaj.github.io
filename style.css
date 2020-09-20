@@ -9,9 +9,9 @@ body, html {
 
 /* Header/logo Title */
 .header {
-text-indent:+100px;
   padding: 30px ;
   text-align: center;
+  text-indent:+100px;
   background: #FFF;
   height: 200px;
   color: black;
