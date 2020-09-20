@@ -15,9 +15,6 @@ text-indent:+100px;
   background: #FFF;
   height: 200px;
   color: black;
-  position: absolute;
-  left: 0px;
-  top: 0px;
 
 }
 /* Increase the font size of the heading */
@@ -38,13 +35,11 @@ img {
 .tab {
   float: left;
   position: absolute;
-  object-fit: contain;
   left: 0px;
-  top: 0px;
   border: none;
   background-color: #ffff;
   width: 150px;
-  height: 300px;
+  height: 1000px;
 }
 /* Style tab links */
 .tablink {
