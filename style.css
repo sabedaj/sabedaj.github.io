@@ -6,6 +6,7 @@ body, html {
   margin-left:90px;
   font-family: Arial;
   margin-right:5px;
+  min-width:500px;
 }
 
 /* Header/logo Title */
@@ -41,7 +42,8 @@ img {
   top: 0px;
   border: none;
   background-color: #ffff;
-  width: 150px;
+  max-width: 150px;
+  width:100%;
   height: 1000px;
 }
 /* Style tab links */
@@ -52,9 +54,11 @@ img {
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 22px 16px;
+  height:150px;
+  max-height:100%;
   font-size: 25px;
-  width: 100%;
+  max-width:100%;
+  width: 150px;
   box-shadow: inset 0 0 0 0.01px #F0F8FF;
   -webkit-transition: ease-out 0.4s;
   -moz-transition: ease-out 0.4s;
