@@ -3,10 +3,11 @@
 /* Set height of body and the document to 100% */
 body, html {
   height: 100%;
-  margin-left:90px;
+  margin-left:18%;
   font-family: Arial;
-  margin-right:5px;
+  margin-right:10%;
   min-width:500px;
+  max-width:1000px;
 }
 
 /* Header/logo Title */
